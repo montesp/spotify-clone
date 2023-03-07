@@ -1,6 +1,5 @@
 # spotify-clone
 PID Electronics Test Practico
-
 ## Creacion de repositorio
 
 Primero se creo una carpeta donde sere el trabajo
